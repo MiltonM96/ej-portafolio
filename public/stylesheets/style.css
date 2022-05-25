@@ -1,0 +1,38 @@
+
+nav div {
+  color: #00B7FF;
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav div a { color: #00B7FF;}
+
+.navbar-nav a{
+  color: #00B7FF;
+}
+
+a {
+  color: #00B7FF;
+}
+
+footer {
+  
+  background-color: #272727;
+  color: #00B7FF;
+  font-style: oblique;
+  font-weight: bold;
+  border: 2px solid rgb(156, 214, 255);
+  text-align: center;
+  padding: 0.5em 0.5em 0.5em;
+  
+  margin-top: 100px;
+  width: 100%;
+  min-height: 30px;
+  
+}
+
+
+#div-nosotros{
+  margin: 0.5em 0.5em 0.5em;
+  padding: 0.5em 0.5em 0.5em;
+}
