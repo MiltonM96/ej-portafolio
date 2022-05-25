@@ -36,3 +36,13 @@ footer {
   margin: 0.5em 0.5em 0.5em;
   padding: 0.5em 0.5em 0.5em;
 }
+
+.d-grid{
+  
+  transition: width 2s;
+  width: 50%;
+}
+
+.d-grid:hover{
+  width: 100%;
+}
